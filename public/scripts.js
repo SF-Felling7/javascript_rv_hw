@@ -16,7 +16,7 @@ function isEvenOrOdd(num) {
 
 function makeTitle(str) {
   str = "game";
-  return str.toUpperCase();
+  return str.toUpperCase(0);
 }
 console.log("game".toUpperCase());
 
