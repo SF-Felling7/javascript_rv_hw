@@ -13,12 +13,12 @@ function isEvenOrOdd(num) {
 }
 
 //PROBLEM 2
-// 
-// function makeTitle(str) {
-//   str = "game";
-//   return str.toUpperCase();
-// }
-// console.log("game".toUpperCase());
+
+function makeTitle(str) {
+  str = "game";
+  return str.toUpperCase();
+}
+console.log("game".toUpperCase());
 
 //PROBLEM 2
 
