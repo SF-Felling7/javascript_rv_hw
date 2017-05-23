@@ -24,6 +24,6 @@ console.log("game".toUpperCase());
 
 function makeTitle(str) {
    this.str = "game";
-  return str.toUpperCase();
+  return str.toUpperCase(0,3);
 }
 console.log("game".toUpperCase());
